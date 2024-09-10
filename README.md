@@ -1,6 +1,7 @@
 ## start 2024/3/5
 # Simple is Powerful
 ## When you want to learn sth, spend 3 days trying different textbooks and courses to find the one that fits your ability level. It is worth it !
+## find every excuse you can to write some code and see how it works. Spend the time, and become the wise master you know you can be.
 ## [homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
 
 ### https://github.com/OccupyMars2025/ostep-homework
