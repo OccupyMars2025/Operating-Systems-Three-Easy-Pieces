@@ -15,4 +15,4 @@
 
 ---
 
-## debug in vscode: https://github.com/vadimcn/codelldb
+## debug in vscode: https://github.com/vadimcn/codelldb, search "CodeLLDB" Extension in vscode marketplace
