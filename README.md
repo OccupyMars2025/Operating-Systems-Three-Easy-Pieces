@@ -10,7 +10,8 @@
 
 - [x] 2024/9/3 22:10- 9/4 16:00: [chapter 2: introduction](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
 - [x] 9/4 16:00 - 9/6 14:10 : chapter 4: processes
-- [ ] 9/6 14:10 - : chapter 5: Process API 
+- [x] 9/6 14:10 - 9/11 19:50: chapter 5: Process API
+- [ ] 9/11 19:50 - : chapter 6: Direct Execution
 
 
 ---
