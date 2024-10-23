@@ -19,7 +19,8 @@
 - [x] 9/14 10:30 - 9/25 21:20: chapter 8: Multi-level Feedback
 - [x] 9/25 21:20 - 10/22 14:30: chapter 9: Lottery Scheduling
 - [ ] (TODO)chapter 10: Multi-CPU Scheduling (As this topic is relatively advanced, it may be best to cover it after you have studied the topic of concurrency in some detail)
-- [ ] 10/22 14:30 - : chapter 13: Address Spaces 
+- [x] 10/22 14:30 - 10/23 20:11: chapter 13: Address Spaces
+- [ ] 10/23 20:11 - : chapter 14, Memory API
 
 
 ---
